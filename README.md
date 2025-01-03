@@ -2,7 +2,7 @@
 Hello!
 My name is Zach Kofoed, and I am currently a junior in college studying Computer Science. I work as a programmer at Adjacency Global Solutions. Over the course of thousands of hours coding, I’ve learned and grown immensely as a developer.
 
-The languages I use most often at work include SQL, JavaScript, HTML, PHP, and PL/B. I’ve written full-stack applications during my time here. I’m sure you’ve probably never heard of PL/B before—I certainly hadn’t until I started working here! It feels like a blend of C and assembly, offering a unique challenge.
+At work, I frequently use SQL, JavaScript, HTML, PHP, and PL/B, and I’ve had the opportunity to develop full-stack applications. PL/B, in particular, is a unique challenge—it was created in 1972 and has very limited documentation. When I first encountered it, I had never even heard of the language! Coding in PL/B requires a deep understanding of programming fundamentals, as there are almost no external resources available for guidance. The language feels like a mix of C and assembly, demanding precision and creativity to navigate its complexities.
 
 Working with PL/B has given me a deeper understanding of coding, as it lacks built-in functions, requiring me to write everything by hand. This experience has taught me to appreciate the fundamental building blocks of programming. I’ve also integrated SQL into my PL/B programs, developing systems that sift through large amounts of data and log it into SQL databases, creating an efficient and easy-to-maintain solution.
 
